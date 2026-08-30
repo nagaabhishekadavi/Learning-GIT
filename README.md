@@ -1,1 +1,2 @@
-This is an example to make a merge conflict
+This is an example to make a merge conflict at line no. 1
+
